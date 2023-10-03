@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\denemeV2\denemeV2\bin\Debug\denemeV2.exe.config
+C:\Users\User\source\repos\denemeV2\denemeV2\bin\Debug\denemeV2.exe
+C:\Users\User\source\repos\denemeV2\denemeV2\bin\Debug\denemeV2.pdb
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.Form1.resources
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.Properties.Resources.resources
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.exe
+C:\Users\User\source\repos\denemeV2\denemeV2\obj\Debug\denemeV2.pdb
